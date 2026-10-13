@@ -1,8 +1,3 @@
----
-description: Discover CodeTalks features, including a five-column Kanban board, local-first storage, GitLab and GitHub integration, and project configuration.
-tags:
----
-
 # CodeTalks Features
 
 CodeTalks manages project-scoped **Work Items** in VS Code. Work Item is the generic CodeTalks term; a provider may expose the same record using a provider-specific type.
