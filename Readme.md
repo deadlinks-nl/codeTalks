@@ -1,7 +1,3 @@
----
-description: Manage project-scoped Work Items in VS Code with CodeTalks, an offline-first Kanban board with GitLab and GitHub integration.
----
-
 # CodeTalks Introduction
 
 CodeTalks is an offline-first VS Code extension for managing project-scoped
